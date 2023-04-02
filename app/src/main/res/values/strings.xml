@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="message">Enter Message Here</string>
+    <string name="get_notification">Get Notification</string>
+</resources>
